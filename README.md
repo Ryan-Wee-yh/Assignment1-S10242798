@@ -8,6 +8,8 @@ The website will showcase everything from the numerous ways user's can choose ho
 ## Design Process
 This website will be catered to those that want to build their own pc with the liberty of choosing their own custom specs and stats that they would want on their pc, and after following through the video/steps on building their pc, They will also learn skills that they can use in the future like building a pc or having more information on what specs (CPU,GPU etc.) collaborate well with each other.
 
+Mark recently had the urge to buy a new pc to be used for his gaming needs. Due to negative experience of pre-built pc's from popular brands. He has decided that 
+
 
 ## Features
 The website would feature many useful tools that the user can use in order to navigate their way through the platform to find, 'make' and troubleshoot with the pc they would like to build.

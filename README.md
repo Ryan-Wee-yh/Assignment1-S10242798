@@ -16,7 +16,7 @@ After all the parts he ordered had been delivered to him. He now needs to find o
 **USER STORY 2** <br>
 Lizzie recently had her pc broken and is urgently in need of a new one for her working needs. She is also unfortunately on a tight budget and therefore can't buy parts to make her own pc. However, she has no prior knowledge on what is useful in a pre-built working pc, weather the cpu,gpu or other hardwares are useful. Because of this, she looks to the internet in order to find what would suit a working pc the most. She comes across this website, a first hand look and she expects it to not be useful to her. however there is a section called 'hardware information' that peeked her interest. Navigating to that section, she finds information on most of the hardwares in a pc and what thier use is. With the information she has aquired from this, she can plan her budget on what suits a working pc the best, and go to different brands to find one exactly or at least close to what she wanted with a suitable price tag. 
 
-With the help from this website Lizzie was able to find information on the use of all the pc parts condensed and summarised into one page instead of gsearching what each part is for. Along with that, 
+With the help from this website Lizzie was able to find information on the use of all the pc parts condensed and summarised into one page instead of searching what each part is for. Along with that, she was able to get a pc thats fully kitted for work purposes, and with a reasonable price as well.
 
 
 ## Features

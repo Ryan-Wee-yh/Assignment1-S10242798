@@ -1,4 +1,4 @@
-# Assignment1-S10242798
+# Make your PC
 Now that we are integrating more technology into our lives, many people would require hardware like computers, laptops and other digital devices in order to survive in this changing world. Because of this, I plan on making this website about making and designing pc's. The purpose is due to the fact that many people would want their own pc's since some would not trust the specs of other pre-built pc's by other brands.
 
 The website will showcase everything from the numerous ways user's can choose how to design their pc's, to how to build their own pc's if they already have the parts to do it (either via a step-by-step walkthrough or by video). This website will be DIY based, so the process would be; Choosing your specs on the pc you would like to build, ordering them by yourself, following the instructions to build it, finishing. There will be no tab where for example you get someone to help you build the computer.
@@ -15,12 +15,14 @@ After all the parts he ordered had been delivered to him. He now needs to find o
 
 **USER STORY 2** <br>
 Lizzie recently had her pc broken and is urgently in need of a new one for her working needs. She is also unfortunately on a tight budget and therefore can't buy parts to make her own pc. However, she has no prior knowledge on what is useful in a pre-built working pc, weather the cpu,gpu or other hardwares are useful. Because of this, she looks to the internet in order to find what would suit a working pc the most. She comes across this website, a first hand look and she expects it to not be useful to her. however there is a section called 'hardware information' that peeked her interest. Navigating to that section, she finds information on most of the hardwares in a pc and what thier use is. With the information she has aquired from this, she can plan her budget on what suits a working pc the best, and go to different brands to find one exactly or at least close to what she wanted with a suitable price tag. 
-
 With the help from this website Lizzie was able to find information on the use of all the pc parts condensed and summarised into one page instead of searching what each part is for. Along with that, she was able to get a pc thats fully kitted for work purposes, and with a reasonable price as well.
 
 
 ## Features
-The website would feature many useful tools that the user can use in order to navigate their way through the platform to find, 'make' and troubleshoot with the pc they would like to build.
+The website would feature many useful tools that the user can use in order to navigate their way through the website.
+**Dropdown Tab**
+There will be a dropdown tab located at the top of their website which would feature:
+Home: Leads you to the homepage of the 
 
 ### Existing Features
 

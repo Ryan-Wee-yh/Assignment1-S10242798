@@ -19,18 +19,23 @@ With the help from this website Lizzie was able to find information on the use o
 
 
 ## Features
-The website would feature many useful tools that the user can use in order to navigate their way through the website.
-**Dropdown Tab**
-There will be a dropdown tab located at the top of their website which would feature:
-Home: Leads you to the homepage of the 
+The website would feature many useful tools that the user can use in order to navigate their way through the website. <br>
 
 ### Existing Features
+**\\Dropdown Tab** <br>
+There will be a dropdown tab located at the top of their website which would feature:<br>
+**Home:** Leads you to the homepage of the website. It will contain the main purpose of the website as well as 3 large boxes the user can click to navigate to the other areas. <br>
+**About Us:** The about us section will be mainly on the information about how the website works and what is it made to provide to the users that use the platform, it will also contain the pc parts that are supported on this website.<br>
+**HardWare Information:** This section is all about the summarized information about the different computer parts and what they are useful for. <br>
+**Assembly station:** This is where the users will be able to mix and match a select amount of pc parts in order to create a pc that they are satisfied with <br>
+**How to build!:** This section will contain the step by step process on how to build their pc as well as a video on it. <br>
+**Feedback:** This is where users can feedback and comment on the website to request new features or improvements for it. <br>
+
 
 ### Features left to implement
+In the future: <br>
+I want to add the option for users to buy their computer parts on the website itself since in this current version the users have to go to different platforms to search for the parts. <br>
 
-**The website will have these features:**
-1. The website will showcase a homepage with a top tab.
-2. The top tab will showcase multiple areas, it will show; Home, About us, Build and Test and a Questions section
 
 ## Technologies Used
 

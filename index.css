@@ -1,0 +1,59 @@
+body{
+  height: 2000px;
+}
+
+.title{
+  font-family:  Helvetica, Arial, sans-serif;
+  font-size: 65px;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.3em;
+  text-align: center;
+  margin: 0px;
+  color: white;
+}
+
+.purpose{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+
+.flex-storage{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+}
+.flex-item{
+  border-radius: 30px;
+  font-size: 70px;
+  font-weight: bolder;
+  text-align: center;
+  background-color: white;
+  color: black;
+  margin: 10px;
+  padding: 100px;
+}
+@media (max-width: 477px) {
+  .flex-container{
+    flex-wrap: wrap
+  }
+  .flex-item{
+    flex-basis: 30%;
+  }
+}
+
+
+
+
+section{
+  color: black;
+  font-size: 16px;
+}
+
+.background{
+  background: url("https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg?w=2000");
+}

@@ -1,0 +1,43 @@
+html, body {
+    height: 200%;
+    width: 90%;
+  }
+  
+  h3{
+    font-size: 18px;
+  }
+  
+  div {
+      width: 45%;
+      float: left;
+      margin-right: 10px;
+  }
+  
+  .poster {
+      max-width: 500px;
+      height: 900px;
+      background-color: lightblue ;
+              
+    position: relative;
+  }
+    
+  .cover{
+    background-size: cover;
+  }
+  
+  
+  h3 {
+      background-color: rgba(0, 0, 0, 0.3);
+      position: absolute;
+      top: 50px;
+      left: 50px;
+      padding: 10px;
+      margin: 0;
+      color: white;
+  }
+  
+  
+  
+  .background{
+      background: url("https://images.ctfassets.net/pdf29us7flmy/2ZtlOujWNf4ztl5wbRnTpC/4a394c414c6a2e3f68749802e5e4d042/GettyImages-689291632_optimized.jpg?w=720&q=100&fm=jpg");
+    }

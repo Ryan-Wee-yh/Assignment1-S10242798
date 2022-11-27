@@ -1,5 +1,6 @@
 body{
-  height: 1500px;
+  height: 900px;
+  width: auto;
   margin: 0;
 }
 
@@ -155,4 +156,47 @@ section{
 .Bbackground{
   background-color:lightgrey;
   margin: 0px;
+}
+
+
+
+
+.footer_container{                          /*Background of footer*/
+  background-color: black;
+  padding-bottom: 10px;
+}
+.footer_txt{                               /*Contains all configs on text in footer*/
+  width: 80%;
+  height: 400px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  justify-content: center;
+}
+
+.footer_head{
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+}
+
+.footer_head h2{
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.footer_head a{
+  background-color: black;
+  color: white;
+  text-decoration: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.footer_head a:hover{
+  background-color: black;
+  color: blueviolet;
 }

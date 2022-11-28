@@ -1,5 +1,5 @@
 body{
-  height: 900px;
+  height: 750px;
   width: auto;
   margin: 0;
 }
@@ -8,6 +8,7 @@ body{
 .navbar {
   overflow: hidden;
   background-color: white;
+  margin-bottom: 10px;
 }
 .navbar a {                  /*Left*/
   float: left;
@@ -17,6 +18,7 @@ body{
   text-align: center;
   padding: 16px 18px;
   text-decoration: none;
+
 }
 .navbar b {                 /*Right*/
   float: right; 
@@ -84,7 +86,7 @@ body{
   line-height: 1.3em;
   text-align: center;
   margin: 0px;
-  padding: 240px;
+  padding: 200px;
   color: white;
 }
 
@@ -114,14 +116,14 @@ body{
   justify-content: center;
 }
 .flex-item{
-  border-radius: 30px;
+  border-radius: 50px;
   font-size: 50px;
   font-weight: bolder;
   list-style: none;
   text-align: center;
   background-color: lightblue;
   color: black;
-  margin: 150px;
+  margin: 125px;
   padding: 100px;
   width:20%;
 }
@@ -163,7 +165,7 @@ section{
 
 .footer_container{                          /*Background of footer*/
   background-color: black;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 .footer_txt{                               /*Contains all configs on text in footer*/
   width: 80%;
@@ -180,7 +182,8 @@ section{
   background-color: black;
   display: flex;
   flex-direction: column;
-  margin-right: 40px;
+  margin-right: 100px;
+  margin-left: 300px;
 }
 
 .footer_head h2{

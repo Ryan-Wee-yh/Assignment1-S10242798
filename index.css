@@ -108,12 +108,12 @@ body{
 
 
 
-
 .flex-storage{
   display: flex;
   list-style: none;
   flex-direction: row-reverse;
   justify-content: center;
+  box-shadow: 15px darkblue;
 }
 .flex-item{
   border-radius: 50px;
@@ -121,6 +121,7 @@ body{
   font-weight: bolder;
   list-style: none;
   text-align: center;
+  box-shadow: 15px darkblue;
   background-color: lightblue;
   color: black;
   margin: 125px;
@@ -156,7 +157,16 @@ section{
 }
 
 .Bbackground{
-  background-color:lightgrey;
+  background: url("Images/Homepage\ background\ 2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0px;
+}
+
+.Cbackground{
+  background: url("https://www.geekawhat.com/wp-content/uploads/2022/05/Lian-Li-Airflow-Build-Feature-Image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   margin: 0px;
 }
 

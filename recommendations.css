@@ -1,0 +1,191 @@
+body{
+    width: auto;
+    height: 750px;
+    margin: 0;
+}
+
+.background{
+    background: url("https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-8753.jpg?fit=crop&w=240&h=130?auto=format&fit=crop&w=480&h=260");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+    margin: 0px;
+}
+.back-block {
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+    background-color: white;
+  }
+  .space{
+    padding: 10px
+  }
+
+  .title{
+    font-size: 65px;
+    font-variant: normal;
+    font-weight: bolder;
+    text-align: center;
+    margin: 100px;
+    padding-top: 500px;
+    color: black;
+  }
+
+
+.flex-storage{
+    display: flex;
+    list-style: none;
+    flex-direction: column-reverse;
+    justify-content: center;
+    box-shadow: 15px darkblue;
+  }
+  .flex-item{
+    font-size: 50px;
+    font-weight: bolder;
+    list-style: none;
+    text-align: left;
+    box-shadow: 15px darkblue;
+    background-color: lightblue;
+    color: black;
+    margin: 50px;
+    padding: 50px;
+    width:80%;
+  }
+  
+  .flex-item img{
+    width:25%;
+  }
+
+  section{
+    color: black;
+    font-size: 28px;
+  }
+
+/*makes the nav bar pos*/
+.navbar {
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 10px;
+  }
+  .navbar a {                  /*Left*/
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+  
+  }
+  .navbar b {                 /*Right*/
+    float: right; 
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+  }
+  
+  
+  .drop {                   /*Dropdown position*/
+    float: right;
+    overflow: hidden;
+  }
+  
+  .drop .droppos {          /*Dropdown size(Same as navbar)*/
+    font-size: 30px;  
+    border: none;
+    font-weight: bold;
+    color: black;
+    padding: 16px 18px;
+    background-color: white;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .drop:hover .droppos {          /*Navbar hover colour for Left and Right*/
+    background-color: red;
+  }
+  .navbar b:hover, .drop:hover .droppos{
+    background-color: red;
+  }
+  
+  .drop-content {                                 /*Boxes inside the dropdown config.*/
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 1px;
+  }
+  .drop-content a {                           
+    float: none;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .drop-content a:hover {                       /*Dropdown box colour*/
+    background-color: lightgrey;
+  }
+  
+  .drop:hover .drop-content {                     /*Displays stuff on screen*/
+    display: block;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer_container{                          /*Background of footer*/
+    background-color: black;
+    padding-bottom: 5px;
+  }
+  .footer_txt{                               /*Contains all configs on text in footer*/
+    width: 80%;
+    height: 400px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    justify-content: center;
+  }
+  
+  .footer_head{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    margin-left: 300px;
+  }
+  
+  .footer_head h2{
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  
+  .footer_head a{
+    background-color: black;
+    color: white;
+    text-decoration: 0;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .footer_head a:hover{
+    background-color: black;
+    color: blueviolet;
+  }
+  

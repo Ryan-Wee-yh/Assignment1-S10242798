@@ -129,6 +129,15 @@ body{
   width:20%;
 }
 
+.flex-storage :hover{
+  box-shadow: 15px 15px 10px grey;
+}
+
+.flex-item :hover{
+  box-shadow: 5px 5px lightblue;
+}
+
+
 .flex-item img{
   width:100%;
 }

@@ -14,7 +14,6 @@ body{
 .back-block {
     position: relative;
     bottom: 10px;
-    right: 10px;
     background-color: white;
   }
   .space{
@@ -134,42 +133,64 @@ body{
 
 .flex-storage{
     display: flex;
+    width:100%;
     list-style: none;
     flex-direction: column-reverse;
     justify-content: center;
-    border-style: solid;
-    border-width: 10px;
-    border-color: lightblue;     
+    border-top:10px;
+    border-bottom:10px;
+    border-left:0;
+    border-right:0;
+    border-color:aqua;
+    border-style:solid;    
     
   }
   .flex-item{
+    display: flex;
+    justify-content: center;
     font-size: 50px;
     font-weight: bolder;
     list-style: none;
     text-align: left;
-    background-color: blue;
+    background-color: navy;
     border-bottom: 10px;
-    border-color: blue;
+    border-color: navy;
     color: black;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-right: 100px;    
-    width:1735px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    width:100%;
   }
-  .flex-direction{
-    flex-direction: row-reverse;
+
+  
+  .title_pos{
+    color: white;
+    background-color: navy;
+    width: 25%;
+    padding-left:20px;
+    text-align: left;
+  }
+
+  .specs_pos{
+    width: 45%;
+    text-align: center;
+    color: white;
+  }
+
+  .img_pos{
+    width: 25%;
+    text-align: center;
   }
   
   .flex-item img{
-    width:25%;
-    margin-right: 20px;
+    width:60%;
   }
+
 
   section{
-    color: black;
+    color: white;
     font-size: 28px;
+    padding-top: 30px;
   }
-
 
 
 
@@ -186,7 +207,7 @@ body{
     padding-bottom: 5px;
   }
   .footer_txt{                               /*Contains all configs on text in footer*/
-    width: 80%;
+    width: 100%;
     height: 400px;
     background-color: black;
     color: white;

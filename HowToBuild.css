@@ -132,6 +132,8 @@ body{
 
 
 .vid-pos{
+  display: flex;
+  width: 100%;
   justify-content: center;
 }
 
@@ -146,6 +148,19 @@ body{
 
 .info-item{
 border-radius: 200px;
+font-size: 30px;
+font-weight: bolder;
+list-style: none;
+text-align: left;
+box-shadow: 15px darkblue;
+background-color: yellow  ;
+color: black;
+padding: 50px;
+width:80%;
+}
+
+.start-pos{
+border-radius: 200px;
 font-size: 50px;
 font-weight: bolder;
 list-style: none;
@@ -154,10 +169,16 @@ box-shadow: 15px darkblue;
 background-color: yellow  ;
 color: black;
 padding: 50px;
-width:80%;
+width:90%;
 }
 
-
+.info-pos{
+font-size: 40px;
+font-weight: bolder;
+list-style: none;
+color: black;
+margin-top: 60px;
+}
 
   .footer_container{                          /*Background of footer*/
     background-color: black;

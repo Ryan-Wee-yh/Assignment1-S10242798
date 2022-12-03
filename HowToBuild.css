@@ -20,19 +20,10 @@ body{
     text-decoration: none;
   
 }
-  .navbar b {                 /*Right*/
-    float: right; 
-    font-size: 30px;
-    font-weight: bold;
-    color: black;
-    text-align: center;
-    padding: 16px 18px;
-    text-decoration: none;
-}
-  
+
   
   .drop {                   /*Dropdown position*/
-    float: right;
+    float: left;
     overflow: hidden;
 }
   
@@ -49,9 +40,7 @@ body{
   .navbar a:hover, .drop:hover .droppos {          /*Navbar hover colour for Left and Right*/
     background-color: red;
 }
-  .navbar b:hover, .drop:hover .droppos{
-    background-color: red;
-}
+
   
   .drop-content {                                 /*Boxes inside the dropdown config.*/
     display: none;

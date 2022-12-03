@@ -106,17 +106,56 @@ body{
 }
 
 
+.title-item{
+  border-radius: 50px;
+  font-size: 50px;
+  font-weight: bolder;
+  list-style: none;
+  text-align: center;
+  box-shadow: 15px darkblue;
+  background-color: lightblue;
+  color: black;
+  padding: 30px;
+  width:30%;
+}
 
 
+.title-section{
+  color: black;
+  font-size: 28px;
+  padding-top: 30px;
+}
+
+.space{
+  height: 100px ;
+}
 
 
+.vid-pos{
+  justify-content: center;
+}
+
+.info-storage{
+  display: flex;
+  list-style: none;
+  flex-direction: row-reverse;
+  justify-content: center;
+  box-shadow: 15px darkblue;
+}
 
 
-
-
-
-
-
+.info-item{
+border-radius: 200px;
+font-size: 50px;
+font-weight: bolder;
+list-style: none;
+text-align: center;
+box-shadow: 15px darkblue;
+background-color: yellow  ;
+color: black;
+padding: 50px;
+width:80%;
+}
 
 
 

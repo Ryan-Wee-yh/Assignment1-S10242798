@@ -62,6 +62,25 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Credits
 ### Content
+The hardware information on the different PC parts was mainly my own experience working with PC's
+
+The recommendations were found here:<br>
+Woking Pc<br>
+https://www.dell.com/en-us/shop/desktop-computers/inspiron-desktop/spd/inspiron-3910-desktop/nd3910fsgsh?AID=5226272&cjevent=cc698666721711ed816600100a18b8f6&publisher=&cjdata=MXxOfDB8WXww&gacd=9684992-28463632-5750457-345576786-177846717&dgc=af&VEN1=14349898-5226272-03Cs5tzW21f5fISwFSbGI4O-Ziff%20Davis,%20LLC&dclid=CO2Wua682vsCFQJNaAodnJEMiw&nclid=Ri3YrzAhcBDdipcNgKNBjC9E1SKzeg09w5TJyeO0uPfln1cSP5J3EptAMWQtLWII<br>
+
+Gaming Pc<br>
+https://www.bhphotovideo.com/c/product/1720634-REG/lenovo_90s1000bus_legion_tower_7i_gaming.html?ap=y&smp=y&srsltid=AYJSbAekHoIt07D04gGFCZ6oIUHsXSbfSIuj2n7WDTrwdKBbGf2Nlv-e5I8<br>
+
+Hybrid Pc<br>
+https://www.bhphotovideo.com/c/product/1700161-REG/hp_577d7aa_aba_pavilion_dt_i7_12700_12_512_ssd.html?ap=y&smp=y&srsltid=AYJSbAeP8Q-F2X-LfyJXDucPoIjo0mZOWhiiP6F0OtP9x6y_1JXbJL5EJUc<br>
+
+
+The How to build Information was found here:<br>
+Video<br>
+https://www.youtube.com/watch?v=PXaLc9AYIcg<br>
+
+Step by Step summary<br>
+https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/<br>
 
 
 ### Media

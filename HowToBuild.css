@@ -37,7 +37,7 @@ body{
 
 
 .background{
-    background-color: aliceblue;
+    background: linear-gradient(to bottom, #801696 0%, #440524 100%);
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0px;

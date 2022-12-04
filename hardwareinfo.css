@@ -40,9 +40,6 @@ body{
   .navbar a:hover, .drop:hover .droppos {          /*Navbar hover colour for Left and Right*/
     background-color: red;
   }
-  .navbar b:hover, .drop:hover .droppos{
-    background-color: red;
-  }
   
   .drop-content {                                 /*Boxes inside the dropdown config.*/
     display: none;

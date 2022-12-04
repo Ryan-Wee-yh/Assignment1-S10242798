@@ -34,20 +34,37 @@ There will be a dropdown tab located at the top of their website which would fea
 ### Features left to implement
 In the future: <br>
 I want to add the option for users to buy their computer parts/computers on the website itself since in this current version the users have to go to different platforms to search for the parts. <br>
+I would like to add a page where the user can design their own Pc and the page interacts with what the user inputs<br>
 
 
 ## Technologies Used
-HTML
+HTML<br>
 HTML takes up the majority of the code and its the main source of program that contains all the information and content of the pages
 
-CSS
+CSS<br>
 I used CSS to decorate and beutify my pages with asthetics, pictures and more. Without it, the pages would look bland and some of the content such as the dropdown nav bar would not be possible
 
-JS
+JS<br>
 Javascript(JS) was mainly used as the source to navigate through the different pages via navigation bar or through other interactive items on the site
 
 ## Testing
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+User story 1:<br>
+Mark researches on computer information and comes across this website:<br>
+From home page --> Hardware information<br>
+Here he will then look at the information on the different important hardwares then go to check out different specs<br>
+Hardware Information --> Recommendations<br>
+Next he will go online on other websites and find parts for the specs of the gaming Pc section, after getting the parts, he goes back to this website to learn how to construct his Pc <br>
+Recommendations --> How to build<br>
+he watches the video and follows the instructions and now he has his gaming pc!<br>
+
+
+User story 2:<br>
+Lizzie is in a rush to buy a budget but good Pc for her Working needs. she comes across the website and immediately goes to recommendations<br>
+Home --> recommendations<br>
+Here she looks at the working pc model and goes to find it online to purchase it<br>
+recommendations --> online website<br>
+She was now able to find a decent working pc for a very budget price<br>
+
 
 Contact form:
 Go to the "Contact Us" page

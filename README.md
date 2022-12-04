@@ -1,4 +1,5 @@
 # Assignment1-S10242798
+# Name: Find-A-PC
 Now that we are integrating more technology into our lives, many people would require hardware like computers, laptops and other digital devices in order to survive in this changing world. Because of this, I plan on making this website about computer and laptop parts. The purpose is that many people of all ages may still be very inexperienced with laptops and choosing the correct one to what they want.
 
 The website will showcase things such as information on the different computer parts such as the uses of the CPU, GPU, etc. The website will also showcase the best builds for different areas of what the pc would be used for (e.g Working/Gaming Pc) and contain a section on how the user can build their own pc (Via step by step and video) if they either buy their own parts from the recommended section (Since its cheaper) or just want to learn how to build one as it is a useful skill to have.

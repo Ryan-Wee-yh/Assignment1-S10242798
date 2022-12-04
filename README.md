@@ -47,7 +47,7 @@ CSS<br>
 I used CSS to decorate and beutify my pages with asthetics, pictures and more. Without it, the pages would look bland and some of the content such as the dropdown nav bar would not be possible
 
 JS<br>
-Javascript(JS) was mainly used as the source to navigate through the different pages via navigation bar or through other interactive items on the site
+Javascript(JS) was mainly used to tell the formatting of the nav bar for js files
 
 ## Testing
 User story 1:<br>

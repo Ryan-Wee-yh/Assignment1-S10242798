@@ -183,3 +183,43 @@ body{
     color: blueviolet;
   }
 
+  @media (max-height: 320px) {
+
+    .navbar-phone{
+      display: block;
+      cursor: pointer;
+    }
+    .navbar-phone .phone{
+      width: 30px;
+      height: 3px;
+      background: white;
+      margin: 6px 0;
+  
+    }
+    .navbar{
+      position: absolute;
+      top: 80px;
+      left: 0;
+      right: 0;
+      width: 100vw;
+      background: black;
+      transition: 0.2s;
+    }
+    .navbar .block{
+      display: block;
+      width: fit-content;
+      margin: 80px auto 0 auto;
+      text-align: center;
+      transition: 0.5s;
+    }
+  
+    .navbar .block .block-info a {                 /*Right*/
+      float: left; 
+      font-size: 10px;
+      font-weight: bold;
+      color: black;
+      text-align: center;
+      padding: 16px 18px;
+      text-decoration: none;
+    }
+  }

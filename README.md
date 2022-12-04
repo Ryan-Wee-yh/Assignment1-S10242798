@@ -33,14 +33,18 @@ There will be a dropdown tab located at the top of their website which would fea
 
 ### Features left to implement
 In the future: <br>
-I want to add the option for users to buy their computer parts on the website itself since in this current version the users have to go to different platforms to search for the parts. <br>
+I want to add the option for users to buy their computer parts/computers on the website itself since in this current version the users have to go to different platforms to search for the parts. <br>
 
 
 ## Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+HTML
+HTML takes up the majority of the code and its the main source of program that contains all the information and content of the pages
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+CSS
+I used CSS to decorate and beutify my pages with asthetics, pictures and more. Without it, the pages would look bland and some of the content such as the dropdown nav bar would not be possible
+
+JS
+Javascript(JS) was mainly used as the source to navigate through the different pages via navigation bar or through other interactive items on the site
 
 ## Testing
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
@@ -58,10 +62,12 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Credits
 ### Content
-The text for section Y was copied from the Wikipedia article Z
+
 
 ### Media
-The photos used in this site were obtained from ...
+Images: Index<br>
+
+
 
 ### Acknowledgement
-I received inspiration for this project from X
+This project was not inspired by any applications and such

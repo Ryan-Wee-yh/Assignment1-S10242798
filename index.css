@@ -19,7 +19,7 @@ body{
   display: flex;
 }
 
-.block-info a :hover{ 
+.navbar a :hover, .block:hover .block-info:hover  { 
   background: red;
 }
 

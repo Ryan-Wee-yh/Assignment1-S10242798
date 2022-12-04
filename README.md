@@ -84,8 +84,69 @@ https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/
 
 
 ### Media
-Images: Index<br>
+**Images: Index**<br>
+Background images<br>
+https://www.geekawhat.com/wp-content/uploads/2022/05/Lian-Li-Airflow-Build-Feature-Image.jpg<br>
 
+https://wallpaperaccess.com/full/1304156.jpg<br>
+
+https://www.geekawhat.com/wp-content/uploads/2022/05/Lian-Li-Airflow-Build-Feature-Image.jpg<br>
+
+
+Content Images<br>
+
+HardWare Info<br>
+https://blogger.googleusercontent.com/img/a/AVvXsEh4LZAWo1eCHd5raLmFyu92VpBiMXjsW3W0v118Jr1dgSIjz-o5DFgTemt8W-ZTToVa9nNwRGBqm4PESPunAAsMqR8QyKs0p_6bpZqdMwWcp0CmtvldPHoiXWehe2li8EpeEC51cDI3XCxEki82yFAsmxv4qZzXGDTXpwuOqybVXfxsHzeetNaTE7Sk=s16000<br>
+
+Recommendations<br>
+https://xyologic.com/wp-content/uploads/2021/06/Types-of-PC-cases.jpg<br>
+
+How to build<br>
+https://cdn.mos.cms.futurecdn.net/MTNYEyWTNTPURkADAP2p7h.jpg<br>
+
+Feedback<br>
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxHdlqy5IzKrm67gpLAUTnWSy4bRivNcFvw&usqp=CAU<br>
+
+
+**Images: Hardware Information**<br>
+Background images<br>
+https://www.lifewire.com/thmb/DV5fa9Mu8gGvXPijAzJhiqPynPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/computer-hardware-2625895-5d9007ac0d44404588321d255fc82049.jpg<br>
+
+
+Content Images<br>
+
+CPU<br>
+https://media.istockphoto.com/id/1313990638/photo/closeup-of-electronic-circuit-board-with-cpu-microchip-electronic-components-futuristic-big.jpg?b=1&s=170667a&w=0&k=20&c=D3vJbffUqe_Tj5_iQ2MYqvl8CAEqQIk1d1Zc201V-ww=<br>
+
+GPU<br>
+https://m.media-amazon.com/images/I/51KgowC05tL.__AC_SX300_SY300_QL70_ML2_.jpg<br>
+
+Memory<br>
+https://www.groovypost.com/wp-content/uploads/2013/03/PC-Memory-DDR3-RAM.jpg<br>
+
+Hard Drive<br>
+https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/hard-drive-6074611920.jpg?itok=G2CchnUW<br>
+
+
+**Images: Recommendations**<br>
+Background Images<br>
+https://th.bing.com/th/id/OIP.qfko95Wg4bkch7c8ssw8HAHaE8?pid=ImgDet&w=768&h=512&rs=1<br>
+
+
+Content Images<br>
+Working Pc<br>
+https://static.bhphoto.com/images/multiple_images/images500x500/1660560485_IMG_1816107.jpg<br>
+
+Gaming Pc<br>
+https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3910-desktop/media-gallery/updated/desktop-inspiron-3910-no-odd-blue-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=301&qlt=100,1&resMode=sharp2&size=301,402&chrss=full<br>
+
+Hybrid Pc<br>
+https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/hp_577d7aa_aba_pavilion_dt_i7_12700_12_512_ssd_1651681230_1700161.jpg<br>
+
+
+**Images: Feedback**<br>
+Background Image<br>
+https://images.ctfassets.net/pdf29us7flmy/2ZtlOujWNf4ztl5wbRnTpC/4a394c414c6a2e3f68749802e5e4d042/GettyImages-689291632_optimized.jpg?w=720&q=100&fm=jpg<br>
 
 
 ### Acknowledgement

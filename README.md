@@ -35,6 +35,7 @@ There will be a dropdown tab located at the top of their website which would fea
 In the future: <br>
 I want to add the option for users to buy their computer parts/computers on the website itself since in this current version the users have to go to different platforms to search for the parts. <br>
 I would like to add a page where the user can design their own Pc and the page interacts with what the user inputs<br>
+Finally, I want to in the future make actual "social medias" for the footer in the pages<br>
 
 
 ## Technologies Used
@@ -66,16 +67,11 @@ recommendations --> online website<br>
 She was now able to find a decent working pc for a very budget price<br>
 
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+**bugs**<br>
+The mobile versions and other ipad specific versions dont collaborate with the @media query, so there are some errors with the formatting<br>
+<br>
+The footer page does not currently work as intended (formatting is kinda off)<br>
 
 ## Credits
 ### Content

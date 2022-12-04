@@ -12,49 +12,50 @@
 
 
 <body>
-
-  <div class="navbar"></div>
-    <div class="phone"></div>
-    <div class="phone"></div>
-    <div class="phone"></div>
-    <div class="phone"></div>
-    <div class="phone"></div>
-  </div>
-
-
-  <div class="navbar">
-    <div class="block">
-      <a href="index.html">Home</a>
-
-      <div class="drop">
-        <button class="droppos">Hardware Information
-          <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="drop-content">
-          <a href="hardwareinfo.html">CPU</a>
-          <a href="hardwareinfo.html">GPU </a>
-          <a href="hardwareinfo.html">Memory</a>
-          <a href="hardwareinfo.html">Hard Drive</a>
-        </div>
-      </div>
-
-
-      <div class="drop">
-        <button class="droppos">Recommended PC's
-          <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="drop-content">
-          <a href="recommendations.html">Working PC</a>
-          <a href="recommendations.html">Gaming PC</a>
-          <a href="recommendations.html">hybrid PC</a>
-        </div>
-      </div>
-
-
-      <a href="HowToBuild.html">How To Build</a>
-      <a href="feedback.html">Feedback</a>
+  <header>
+    <div class="navbar-phone"></div>
+      <div class="phone"></div>
+      <div class="phone"></div>
+      <div class="phone"></div>
+      <div class="phone"></div>
+      <div class="phone"></div>
     </div>
-  </div>
+
+
+    <div class="navbar">
+      <div class="block">
+
+
+        <div class="block-info">
+          <a href="index.html">Home</a>
+        </div>
+
+        <div class="block-info">
+          <a href="hardwareinfo.html">Hardware Information</a>
+        </div>
+
+        <div class="block-info">
+          <a href="recommendations.html">Recommendations</a>
+        </div>
+
+        <div class="block-info">
+          <a href="HowToBuild.html">How To Build</a>
+        </div>
+
+        <div class="block-info">
+          <a href="feedback.html">Feedback</a>
+        </div>
+
+        
+      </div>
+    </div>
+  </header>
+
+
+
+
+
+
   <div class="Tbackground">
     <h1 class="title"> Find your Perfect PC here!</h1>
   </div>
@@ -98,7 +99,13 @@
         </section>
       </li>
     </ul>
-    <script src="script.js"></script>
+    <script src="script.js">
+      navbar = document.querySelector(".navbar");
+      navbar.onclick = function() {
+        navBar = document.querySelector(".nav-bar");
+        navBar.classList.toggle("active")
+      }
+    </script>
     <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
   </div>
 </body>
